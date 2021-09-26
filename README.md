@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @NITOLIKI
+- 👀 I’m interested in learnign HTML CSS and Java Script
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on C++ projects
+- 📫 You can reach me trough my gmail ( lukanikolic752@gmail.com )
